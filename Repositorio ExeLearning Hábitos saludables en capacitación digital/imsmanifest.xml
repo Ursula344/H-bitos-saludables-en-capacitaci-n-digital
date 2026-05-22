@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mpfrycgj1sdz9"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mpfrycgj1sdz9">
+    <organization identifier="eXe-mpfrycgj1sdz9" structure="hierarchical">
+      <title>Documento sin título</title>
+      <item identifier="ITEM-page-mpfp1i3o-wgyk3qb84" identifierref="RES-page-mpfp1i3o-wgyk3qb84" isvisible="true">
+        <title>Página nueva</title>
+      </item>
+      <item identifier="ITEM-page-mpfp1i3o-wai4t4qo3" identifierref="RES-page-mpfp1i3o-wai4t4qo3" isvisible="true">
+        <title>Bienvenida </title>
+      </item>
+      <item identifier="ITEM-page-mpfp1i3r-lq0f7lr96" identifierref="RES-page-mpfp1i3r-lq0f7lr96" isvisible="true">
+        <title>Presentación y descripción del proyecto</title>
+      </item>
+      <item identifier="ITEM-page-1779382014718-mbgqs8y3p" identifierref="RES-page-1779382014718-mbgqs8y3p" isvisible="true">
+        <title>Datos personales y garantías de derechos digitales</title>
+      </item>
+      <item identifier="ITEM-page-1779382115658-vzpo2h40h" identifierref="RES-page-1779382115658-vzpo2h40h" isvisible="true">
+        <title>Descripción del producto final</title>
+      </item>
+      <item identifier="ITEM-page-1779382298217-9zttbksa3" identifierref="RES-page-1779382298217-9zttbksa3" isvisible="true">
+        <title>Herramientas de contenido</title>
+        <item identifier="ITEM-page-1779382310109-zxhqvicj4" identifierref="RES-page-1779382310109-zxhqvicj4" isvisible="true">
+          <title>Para el docente</title>
+        </item>
+        <item identifier="ITEM-page-1779382321459-flzjmfcx4" identifierref="RES-page-1779382321459-flzjmfcx4" isvisible="true">
+          <title>Para el alumnado</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-1779383516561-dxwo0pcci" identifierref="RES-page-1779383516561-dxwo0pcci" isvisible="true">
+        <title>Línea temporal</title>
+      </item>
+      <item identifier="ITEM-page-1779383737914-oi56cfczp" identifierref="RES-page-1779383737914-oi56cfczp" isvisible="true">
+        <title>Guía didáctica</title>
+      </item>
+      <item identifier="ITEM-page-1779384017377-mhjqmcyjd" identifierref="RES-page-1779384017377-mhjqmcyjd" isvisible="true">
+        <title>Instrumentos de evaluación</title>
+        <item identifier="ITEM-page-1779384115066-subpiwn6k" identifierref="RES-page-1779384115066-subpiwn6k" isvisible="true">
+          <title>Rúbrica</title>
+        </item>
+        <item identifier="ITEM-page-1779384247513-eahiuqrp7" identifierref="RES-page-1779384247513-eahiuqrp7" isvisible="true">
+          <title>Diana de autoevaluación</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-1779384504806-939bdfx6a" identifierref="RES-page-1779384504806-939bdfx6a" isvisible="true">
+        <title>Nodo final</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mpfp1i3o-wgyk3qb84" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpfp1i3o-wai4t4qo3" type="webcontent" adlcp:scormtype="sco" href="html/bienvenida-.html">
+      <file href="html/bienvenida-.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mpfp1i3r-lq0f7lr96" type="webcontent" adlcp:scormtype="sco" href="html/presentacion-y-descripcion-del-proyecto.html">
+      <file href="html/presentacion-y-descripcion-del-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779382014718-mbgqs8y3p" type="webcontent" adlcp:scormtype="sco" href="html/datos-personales-y-garantias-de-derechos-digitales.html">
+      <file href="html/datos-personales-y-garantias-de-derechos-digitales.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779382115658-vzpo2h40h" type="webcontent" adlcp:scormtype="sco" href="html/descripcion-del-producto-final.html">
+      <file href="html/descripcion-del-producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779382298217-9zttbksa3" type="webcontent" adlcp:scormtype="sco" href="html/herramientas-de-contenido.html">
+      <file href="html/herramientas-de-contenido.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779382310109-zxhqvicj4" type="webcontent" adlcp:scormtype="sco" href="html/para-el-docente.html">
+      <file href="html/para-el-docente.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779382321459-flzjmfcx4" type="webcontent" adlcp:scormtype="sco" href="html/para-el-alumnado.html">
+      <file href="html/para-el-alumnado.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779383516561-dxwo0pcci" type="webcontent" adlcp:scormtype="sco" href="html/linea-temporal.html">
+      <file href="html/linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779383737914-oi56cfczp" type="webcontent" adlcp:scormtype="sco" href="html/guia-didactica.html">
+      <file href="html/guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779384017377-mhjqmcyjd" type="webcontent" adlcp:scormtype="sco" href="html/instrumentos-de-evaluacion.html">
+      <file href="html/instrumentos-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779384115066-subpiwn6k" type="webcontent" adlcp:scormtype="sco" href="html/rubrica.html">
+      <file href="html/rubrica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779384247513-eahiuqrp7" type="webcontent" adlcp:scormtype="sco" href="html/diana-de-autoevaluacion.html">
+      <file href="html/diana-de-autoevaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779384504806-939bdfx6a" type="webcontent" adlcp:scormtype="sco" href="html/nodo-final.html">
+      <file href="html/nodo-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/033e32d9-1431-98b0-22c0-72c25bb9588d.pdf"/>
+      <file href="content/resources/8f326e10-d2a9-2622-883b-48bb9cd5ec5d.png"/>
+      <file href="content/resources/92a4291b-6529-9627-f6fb-af0ea870162c.pdf"/>
+      <file href="content/resources/Envío SdA modulo 2.pdf"/>
+      <file href="content/resources/Imagen Bienvenida.png"/>
+      <file href="content/resources/Infografía módulo 2.pdf"/>
+      <file href="content/resources/Presentación y descripción del proyecto.pdf"/>
+      <file href="content/resources/c833d163-cf11-75dd-69a4-20c8ed5108de.pdf"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
